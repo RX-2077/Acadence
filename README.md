@@ -75,7 +75,7 @@ ClassPlan addresses this gap by organizing assignment data contextually and assi
 
 ## Setup Instructions (To be updated)
 
-Detailed setup and run instructions will be added as the project progresses.
+
 
 ---
 
@@ -88,6 +88,3 @@ Detailed setup and run instructions will be added as the project progresses.
 
 ---
 
-## License
-
-This project is developed as part of the Sahyadri Open Source Community (SOSC) Technical Challenge.
